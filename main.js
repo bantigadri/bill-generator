@@ -154,7 +154,7 @@ document.getElementById("readingN").innerHTML=`
          <td id="pa2">${pa2 }</td>
          <td id="u2">${un2 }</td>
          <td id="b2">${b2 }</td>
-         <td id="sulkhe"> 0 </td>
+         <td id="sulkhe">${personSlk}</td>
          <td id="totalb2">${ tb2}</td>
         </tr>
               <tr>
